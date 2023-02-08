@@ -1,0 +1,4 @@
+My favorite topic in this course was illumination, because it was a recurring theme. 
+On one of our lectures we had an example of how light works in real life that involved
+a small hole in a wall that could act as an ancient projector. It painted the image from outside
+into a dark room. That made me interested in understanding how we could mimic light.
